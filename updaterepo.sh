@@ -1,2 +1,2 @@
 #!/bin/bash
-git add ~/scripts/ && git commit -m "Daily Update" && git push -u origin master
+git add ~/Documents/prgrms/scripts/ && git commit -m "Daily Update" && git push -u origin master
